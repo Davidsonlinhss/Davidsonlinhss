@@ -1,5 +1,11 @@
-### Hi there 👋
+# :test_tube::dna:	**ScienceIsLife.** :microscope::computer:	
 ![This is an image](https://i.imgur.com/49P9fLy.gif)
+### Passionate about science, computing and programming.  
+#### Graduating in Biological Sciences at the Federal University of Rio de Janeiro - UFRJ (2018-2022).  Interested in phylogenetic systematics and biogeography of limnoterrestrial and freshwater tardigrades in Brazil.  Currently, I have been developing through my scientific research the use of Integrative Taxonomy to redescribe species of Brazilian limnoterrestrial tardigrades that were described in the 30's and 40's for the city of Campos do Jordão - SP and designation of the respective neotypes of the groups in question.
+
+
+
+
 <!--
 **Davidsonlinhss/Davidsonlinhss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
