@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="49P9fLy" data-context="false" ><a href="//imgur.com/49P9fLy">[OC] A pink tardigrade</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 <!--
 **Davidsonlinhss/Davidsonlinhss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
