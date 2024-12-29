@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Davidsonlinhss, FOLLOW-ME!</h1>
-<h3 align="center">In love about science, design and programming.</h3>
-<h5 align="center">As a Backend Developer with a solid foundation in Java, I have been improving my skills since 2023, diving head first into challenging projects that have allowed me to apply practical concepts and solve real problems. During this period, I participated in several academic and personal projects, where I not only applied object-oriented design practices, but also used essential frameworks such as Spring Boot and Hibernate to build robust and scalable solutions.</h5>
+<h1 align="center">🌟 Hi there! I'm Davidsonlinhss – Let's Connect and Explore Together! 🚀</h1>
+<h3 align="center">In love about science, tecnology and programming.</h3>
+<h5 align="center">
+  As a Backend Developer, I'm currently pursuing my second degree in Software Engineering. My first degree is in Biological Sciences from UFRJ, but I decided to transition into software development to follow my passion for technology and problem-solving.  
+  I document my journey on my YouTube channel, recording daily study sessions as a form of accountability and a way to share my progress with my followers. My goal is to stay consistent with my routine and secure my first opportunity in the field.  
+  I'm deeply focused on mastering Java and its ecosystem, including the full Java Spring suite, Spring Boot, and related technologies. Since 2023, I've been tackling challenging academic and personal projects, applying object-oriented design, and leveraging frameworks like Spring Boot and Hibernate to build scalable, real-world solutions.  
+</h5>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidsonlinhss&label=Profile%20views&color=0e75b6&style=flat" alt="davidsonlinhss" /> </p>
@@ -9,11 +14,15 @@
 
 - 📝 I regularly read articles on [https://www.sciencedirect.com/journal/journal-of-systems-and-software](https://www.sciencedirect.com/journal/journal-of-systems-and-software)
 
-- 💬 Ask me about **Java, JavaScipt and Docker**
+- 💬 Ask me about **Java**
+- 🚀 Visit my channel and follow my **journey**: https://www.youtube.com/@Dav.linhss 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/davidson-linhares-ba5710317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidson-linhares-ba5710317/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/davidson-linhares-ba5710317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidson-linhares-ba5710317/" height="30" width="40" /></a>
+</p>
+<p aligg="center">
+  <a href="https://www.youtube.com/@Dav.linhss" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,5 +37,8 @@
 
 </h2>
 
-
+<h3>
+Thank you for visiting my portfolio! 🙌  
+</h3>
+<p>I’m truly grateful for your time and interest in my journey. Feel free to explore my projects, learn more about my skills, and connect with me. Let’s build something amazing together! 🚀</p>
 
