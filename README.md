@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Hi there! I'm Davidsonlinhss – Let's Connect and Explore Together! 🚀</h1>
+<h1 align="center">🌟 Hi there! I'm Davidson Linhares – Let's Connect and Explore Together! 🚀</h1>
 <h3 align="center">In love about science, tecnology and programming.</h3>
 <h5 align="center">
   As a Backend Developer, I'm currently pursuing my second degree in Software Engineering. My first degree is in Biological Sciences from UFRJ, but I decided to transition into software development to follow my passion for technology and problem-solving.  
